@@ -4,4 +4,5 @@ Me going through the book [Modern Computer Vision with PyTorch](https://www.pack
 
 
 ## Notes and References
-- [Public domain photos](https://www.photos-public-domain.com/)
+- [Public domain image resources](https://meta.wikimedia.org/wiki/Help:Public_domain_image_resources)
+  * [Public domain photos](https://www.photos-public-domain.com/)
