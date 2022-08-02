@@ -6,3 +6,5 @@ Me going through the book [Modern Computer Vision with PyTorch](https://www.pack
 ## Notes and References
 - [Public domain image resources](https://meta.wikimedia.org/wiki/Help:Public_domain_image_resources)
   * [Public domain photos](https://www.photos-public-domain.com/)
+
+- [sum in mathjax](https://math.meta.stackexchange.com/questions/22443/how-to-markup-expression-using-sigma-notation-for-sum-in-mathjax)
