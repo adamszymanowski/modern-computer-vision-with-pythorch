@@ -8,3 +8,9 @@ Me going through the book [Modern Computer Vision with PyTorch](https://www.pack
   * [Public domain photos](https://www.photos-public-domain.com/)
 
 - [sum in mathjax](https://math.meta.stackexchange.com/questions/22443/how-to-markup-expression-using-sigma-notation-for-sum-in-mathjax)
+
+- if `pip install` gives SSL error, use this form:
+```
+ pip install opencv-python  --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org
+```
+- [plt.show() multiple images](https://stackoverflow.com/questions/41210823/using-plt-imshow-to-display-multiple-images)
