@@ -14,3 +14,7 @@ Me going through the book [Modern Computer Vision with PyTorch](https://www.pack
  pip install opencv-python  --trusted-host pypi.org --trusted-host pypi.python.org --trusted-host files.pythonhosted.org
 ```
 - [plt.show() multiple images](https://stackoverflow.com/questions/41210823/using-plt-imshow-to-display-multiple-images)
+- [pytorch connection between loss.backward() and optimizer.step()](https://stackoverflow.com/questions/53975717/pytorch-connection-between-loss-backward-and-optimizer-step)
+- [Science plots](https://github.com/garrettj403/SciencePlots)
+  * `pip install SciencePlots`
+- [integers on x axis in matplotlib](http://www.javawenti.com/?post=429006)
